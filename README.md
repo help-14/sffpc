@@ -11,6 +11,8 @@ Part Design:
 - [Support part](#support-part)
 - [3D models](#3d-models)
 
+[Reference](#reference)
+
 ## Case Design
 
 ### M-ITX
@@ -50,6 +52,10 @@ To be added
 
 ### 3D models
 To be added
+
+
+## Reference
+- [Open Case](https://github.com/berserkwarwolf/OpenCase): Modular Open Source PC case designed for Mini-ITX motherboards.
 
 
 ## Where to buy:
