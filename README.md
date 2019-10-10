@@ -1,4 +1,4 @@
-# Small form factor PC
+# [Small form factor PC](https://sffpc.help14.com)
 List of DIY small form factor pc ready to use, start DIY now
 
 ## Quick links
