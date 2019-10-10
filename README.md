@@ -2,16 +2,18 @@
 List of DIY small form factor pc ready to use, start DIY now
 
 ## Quick links
-Case Design:
+
+[Case Design](#case-design)
 - [M-ITX](#m-itx)
 - [ITX](#itx)
 - [M-ATX](#m-atx)
 
-Part Design:
+[Part Design](#part-design)
 - [Support part](#support-part)
 - [3D models](#3d-models)
 
 [Reference](#reference)
+
 
 ## Case Design
 
