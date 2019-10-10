@@ -53,11 +53,22 @@ List of DIY small form factor pc ready to use, start DIY now
 To be added
 
 ### 3D models
-To be added
+- [SFF Forum Resources](https://smallformfactor.net/forum/resources/)
+- [Accurate Blank Motherboard & PCIe Card Models](https://smallformfactor.net/forum/resources/accurate-blank-motherboard-pcie-card-models.25/)
+- [SketchUp Components Collection](http://scc.jezmckean.com/)
+- [3D Warehouse](https://3dwarehouse.sketchup.com/)
+- [GrabCAD](https://grabcad.com/)
 
 
 ## Reference
+
+- [STX160.0 - From Design to Finished Case](https://smallformfactor.net/forum/threads/stx160-0-the-most-powerful-atx-unit-in-the-world.934/)
+- [Component Space Requirements](https://smallformfactor.net/forum/resources/component-space-requirements.27/)
 - [Open Case](https://github.com/berserkwarwolf/OpenCase): Modular Open Source PC case designed for Mini-ITX motherboards.
+- [FormFactors.org](http://www.formfactors.org/): Official specs for various form factors, like mini-ITX, ATX power supplies, etc.
+- [Protocase Resources](http://www.protocase.com/resources/): Useful guidelines for designing sheet metal enclosures.
+- [Protocase Blog](http://www.protocase.com/blog/)
+- [Build Prototypes w/ Dan Gelbart](https://www.youtube.com/watch?v=RopgrECLSJc): Great video overview of the process of manufacturing a sheet metal enclosure (it's aimed at prototyping but most of it is similar to production)
 
 
 ## Where to buy:
