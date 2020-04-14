@@ -22,6 +22,7 @@ List of DIY small form factor pc ready to use, start DIY now
 | Image | Name | Description |
 | --- | --- | --- |
 | <img minwidth="500" src="https://cdn.thingiverse.com/renders/42/f8/94/a2/db/63dd582e1bb05df4dbbbbbe7f15e2811_preview_featured.jpg"> | [Louqe Ghost S1](https://www.thingiverse.com/thing:3372586/files) | 3D file for case design base on Ghost S1. |
+| <img minwidth="500" src="https://cdn.thingiverse.com/assets/4e/a0/c9/45/d3/featured_preview_danlouqe_2019-Dec-23_03-43-37PM-000_CustomizedView15553784689.jpg"> | [Mini-ITX/Mini-DTX Case Full size GPU](https://www.thingiverse.com/thing:3752149) | 3D file for case. |
 | <img minwidth="500" src="https://cdn.thingiverse.com/renders/8d/7e/54/40/59/438f477471f57ca3927ad6e0802586d8_preview_featured.jpg"> | [vfalendysh's mac style case](https://www.thingiverse.com/thing:3001247) | Mac style Mini ITX PC case. |
 | <img minwidth="500" src="https://cdn.thingiverse.com/renders/5f/9c/6b/93/6a/4e7e5d9647ed6667263a7602378fc9c5_preview_featured.jpg"> | [Mr_Brown's mac style case](https://www.thingiverse.com/thing:3529439) | This one made for motherboard with external power supply but can be modified to fit FSX. This case does't allow you to place a graphics card inside. |
 | <img minwidth="500" src="https://cdn.thingiverse.com/renders/20/3a/35/4f/c3/070d5d574236da6afbbafc1c430175ce_preview_featured.jpg"> | [matt3o's 3d print case](https://www.thingiverse.com/thing:2460903) | Consumer grade 3d printers have a working area of about 200x200x200mm. |
