@@ -43,6 +43,7 @@ List of DIY small form factor pc ready to use, start DIY now
 | <img minwidth="500" src="https://github.com/NanyiJiang/Skyscraper/raw/master/Render/fullrender.png?raw=true"> | [Skyscraper](https://github.com/NanyiJiang/Skyscraper) | An Open sourced 13.5L ITX Case. |
 | <img minwidth="500" src="https://cdn.instructables.com/FOM/7YP5/JX0O1RZT/FOM7YP5JX0O1RZT.LARGE.jpg?auto=webp&frame=1&width=525&height=1024&fit=bounds"> | [Mikros](https://www.instructables.com/id/Mikros-Tiny-3D-Printed-Computer-Case/) |  |
 | <img minwidth="500" src="https://i.imgur.com/B83GUbo.jpg"> | [Plenus](https://a360.co/2pt2A7Y) |  |
+| <img minwidth="500" src="https://cdn.thingiverse.com/assets/65/39/19/18/48/featured_preview_PC_Case_for_ITX_and_full_size_GPU.JPG"> | [ITX_CR10-ONE](https://www.thingiverse.com/thing:4638825) |  |
 
 
 ### M-ATX
